@@ -28,7 +28,7 @@ This is a straightforward to-do list web application built using HTML, CSS, and 
 
 ## Live Demo 🎉
 
-Check out the live demo [here]([https://your-demo-link.com](https://elafsh-todo-app.netlify.app/)).
+Check out the live demo [here](https://elafsh-todo-app.netlify.app/).
 
 ## Usage 🛠️
 
