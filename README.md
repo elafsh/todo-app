@@ -14,8 +14,6 @@ A simple and accessible to-do app to help you stay organized and productive. Cre
 
 This is a straightforward to-do list web application built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks, filter tasks by status, and search for specific tasks. The application also stores tasks locally, so you won't lose your tasks when you refresh the page.
 
-![To-Do List Screenshot](toDoApp_Screen.png)
-
 ## Features 🌟
 
 - Add tasks to your to-do list.
